@@ -1,0 +1,116 @@
+
+body{
+	border: 30px solid black;
+	display: fixed;
+	width: auto;
+	max-width: auto;
+	min-width: auto;
+	height: auto;
+	max-height: auto;
+	min-height: auto;
+	margin: auto;
+	padding: auto;
+}
+
+	header{
+	border: 15px solid blue;
+	background-color: orange;
+	display: fixed;
+	width: 60%;
+	max-width: auto;
+	min-width: auto;
+	height: auto;
+	max-height: auto;
+	min-height: auto;
+	margin: auto;
+	padding: auto;
+
+	}
+
+	nav{
+	border: 15px solid red;
+	background-color: cyan;
+	display: fixed;
+	width: 60%;
+	max-width: auto;
+	min-width: auto;
+	height: auto;
+	max-height: auto;
+	min-height: auto;
+	margin: auto;
+	padding: auto;
+
+	}
+
+	aside{
+	border: 15px solid yellow;
+	background-color: purple;
+
+	}
+
+		#barra0{
+		float: left	;
+		display: inline;
+		width: 20%;
+		height: 100%;
+
+		}
+
+		#barra1{
+		float: right;
+		display: inline;	
+		width: 20%;	
+		height: 100%;	
+		}
+
+	section{
+	border: 15px solid green;
+	display: fixed;
+	width: 60%;
+	max-width: auto;
+	min-width: auto;
+	height: auto;
+	max-height: auto;
+	min-height: auto;
+	margin: auto;
+	padding: auto;
+	}
+	.flex-container{
+		border: 5px solid purple;
+		display: fixed;
+		width: auto;
+		max-width: auto;
+		min-width: auto;
+		height: auto;
+		max-height: auto;
+		min-height: auto;
+		margin: auto;
+		padding: auto;
+		}
+
+			.flex-item{
+			border: 2px solid orangered;
+			display: fixed;
+			width: auto;
+			max-width: auto;
+			min-width: auto;
+			height: auto;
+			max-height: auto;
+			min-height: auto;
+			margin: auto;
+			padding: auto;
+			}
+	footer{
+		border: 15px solid rgb(37, 185, 153);
+		display: fixed;
+		width: 60%;
+		max-width: auto;
+		min-width: auto;
+		height: auto;
+		max-height: auto;
+		min-height: auto;
+		margin: auto;
+		padding: auto;
+		}
+	
+
