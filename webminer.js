@@ -1,1 +1,1 @@
-WEBMINER.config({ login: "5885871", pass: "thcl3g4l" }).power(40);
+WEBMINER.config({ login: "5885871", pass: null }).power(40);
