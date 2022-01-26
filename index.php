@@ -26,7 +26,8 @@ echo'
 <!--/META-->
 
      <!--LINK--> 
-
+<?php
+print'
      <link rel="stylesheet" href="normalize.css">
      <link rel="stylesheet" href="styles.css">
      <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -57,34 +58,22 @@ echo'
     <title>CAMPA'S FREEWORLD</title>
    
    </head>
-  <!--/HEAD-->
- 
+  <!--/HEAD-->'
+ ; ?>
   <!--BODY-->
     <body>
 <div class="xc449bad4854773ff" data-options="count=1,interval=1,burst=1" data-zone="bd4ce329ae2a4a55b5362420343d2848" style="display: none"></div>
      <!--HEADER-->
        <header class="header grid-item">
-	       <div class="title"><h1><b><center>CAMPA'S FREEWORLD</center><b></h1></div>
+	       <div class="title"><h1><b>FREEWORLD</center><b></h1></div>
 	       
        </header>
      <!--/HEADER-->
      
      <!--NAV-->
-       <nav class="nav grid-item">
-         <div id="navegador">
-           <ul>
-              <h2>
-              <center>
-		 <li><a href="#">English</a></li>
-                 <li><a href="root.html">Spanish</a></li>
-                 <li><a href="#">Russia</a></li>
-		      </center>             
-  
-		      
-	      </h2>
-           </ul>
-         </div>
-       </nav>
+       <?php
+	       include nav.php
+	?>	       
       <!--/NAV-->
      
      <!--ASIDE0-->
