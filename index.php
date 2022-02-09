@@ -19,7 +19,7 @@ echo'
      <meta name="robots" content="index, follow">
      <meta name="revised" content=" Friday, March 5th, 2021, 09:35 am">
      <meta name="classification" content="Business">
-     <meta name="keywords" content="campa, ar, campa's freeworld, browsermine, browserminer, trust, facts, god, bot, trading bot, bitcoin bot, insure, loan, lawyer, wheat, hyperverse, hyperfund, mof, hdao, free money, money, chainmine, profits, profit, millonarie, billonarie, amazon, amazing,  dinero, dinero gratis, bitcoin, ethereum, vitalik buterin, elon musk, argentina, cryptocurrencies, binance, binance coin, cybermoney, krypt0, krypt0n, Satoshi Nakamoto, satoshi, vaticano, venecia, web 3.0, nft, smart contracts, progamation, youtube, videos, guides, tutorials, contratos inteligentes, progamacion, guias, tutoriales, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, Deus, Machina, parabellum, mine, mining, miner, cloud, google, presearch, stormgain, rollercoin, bitconmania, bitconf, el salvador, nayib bukele, panama, suiza"> 	    
+     <meta name="keywords" content="campa, ar, campas freeworld, browsermine, browserminer, trust, facts, god, bot, trading bot, bitcoin bot, insure, loan, lawyer, wheat, hyperverse, hyperfund, mof, hdao, free money, money, chainmine, profits, profit, millonarie, billonarie, amazon, amazing,  dinero, dinero gratis, bitcoin, ethereum, vitalik buterin, elon musk, argentina, cryptocurrencies, binance, binance coin, cybermoney, krypt0, krypt0n, Satoshi Nakamoto, satoshi, vaticano, venecia, web 3.0, nft, smart contracts, progamation, youtube, videos, guides, tutorials, contratos inteligentes, progamacion, guias, tutoriales, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, Deus, Machina, parabellum, mine, mining, miner, cloud, google, presearch, stormgain, rollercoin, bitconmania, bitconf, el salvador, nayib bukele, panama, suiza"> 	    
      <meta name="owner" content="thcl3g4l">
      <meta name="designer" content="thcl3g4l">;'
 ?>
@@ -45,8 +45,8 @@ print'
 	    	<script>
   			window.dataLayer = window.dataLayer || [];
   			function gtag(){dataLayer.push(arguments);}
-  			gtag('js', new Date());
-  			gtag('config', 'UA-184249553-1');
+  			gtag("js", new Date());
+  			gtag("config", "UA-184249553-1");
 		</script>
 	    
      <!--/SCRIPT-->
@@ -55,11 +55,10 @@ print'
 	    
 	    
 	    
-    <title>CAMPA'S FREEWORLD</title>
+    <title>CAMPAS FREEWORLD</title>
    
    </head>
-  <!--/HEAD-->'
- ; ?>
+  <!--/HEAD-->'; ?>
   <!--BODY-->
     <body>
 <div class="xc449bad4854773ff" data-options="count=1,interval=1,burst=1" data-zone="bd4ce329ae2a4a55b5362420343d2848" style="display: none"></div>
@@ -71,9 +70,7 @@ print'
      <!--/HEADER-->
      
      <!--NAV-->
-       <?php
-	       include nav.php
-	?>	       
+    	       
       <!--/NAV-->
      
      <!--ASIDE0-->
